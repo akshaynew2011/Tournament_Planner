@@ -1,7 +1,5 @@
 ### Swiss Tournament Project
-This project is a part of Udacity's Full Stack Developer
-nanodegree program, Developing a simple Swiss 
-Tournament Matching System.
+This is second side project of Software Development
 
 The project uses Python 2.7 and PostgreSQL.
 
